@@ -18,5 +18,9 @@ body{
 }
 
 h3{
-    background-color:rgb(24,10,23);
+    background-color:#EAE151
+}
+
+button{
+    background-color: green;
 }
