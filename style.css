@@ -24,3 +24,17 @@ h3{
 button{
     background-color: green;
 }
+
+#h1{
+    font-weight: normal;
+}
+
+#h2{
+    font-weight: bold;
+}
+#h3{
+    font-weight: bolder;
+}
+#h4{
+    font-weight:lighter;
+}
