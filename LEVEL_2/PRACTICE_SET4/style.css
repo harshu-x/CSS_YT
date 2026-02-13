@@ -1,0 +1,33 @@
+.content1{
+    border:2px solid black;
+    height:100px;
+    width:100px;
+     display:inline-block;
+    background-color: rgba(255,0,0,0.5)
+}
+
+.content2{
+    border:2px solid black;
+    height:100px;
+    width:100px;
+    display:inline-block;
+    background-color:rgba(0,255,0,0.5);
+}
+
+.content3{
+    border:2px solid black;
+    height:100px;
+    width:100px;
+     display:inline-block;
+    background-color: rgba(0,0,255,0.5);
+}
+
+#content{
+ height: 700px;
+
+}
+footer{
+    background-color: black;
+    color:white;
+    text-align:center;
+}
