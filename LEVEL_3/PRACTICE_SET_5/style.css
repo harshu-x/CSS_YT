@@ -1,0 +1,11 @@
+div{
+    height: 200px;
+     width: 200px;
+    
+     background-image: url('https://imgs.search.brave.com/aPMY0iaqLDe0DT8vy_UL25Q3t4TVIY6D1abWQNK5dzs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzAxLzAyLzYyLzgx/LzM2MF9GXzEwMjYy/ODE1NV9aUGlBYU5F/RFJTWlUyUzBMQWti/Y2d2d0x5TW1yOWMy/WS5qcGc');
+     background-size: cover;
+     position: fixed;
+     right:0px;
+     top:50px;
+  
+}
