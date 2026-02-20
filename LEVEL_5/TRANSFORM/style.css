@@ -1,0 +1,35 @@
+div{
+    height: 100px;
+    width: 100px;
+    background-color: aquamarine;
+    border: 2px solid black;
+    /* transition-property: all;
+    transition-duration: 10s;
+    transition-timing-function: ease-in;
+    transition-delay: 2s; */
+    position: relative;
+    top:100px;
+    left:100px;
+        transition: all 2s ease-in;
+    /* transform: rotateY(deg); */
+
+    /* transform: scale(3); */
+
+    /* transform: translateX(100px); */
+
+
+    transform: skewY(10deg);
+
+}
+
+div:hover{
+      background-color: blue;
+      color:white;
+      font-size:20px ;
+      
+    /* transform: scaleY(2); */
+}
+
+div:active{
+    background-color: pink;
+}
